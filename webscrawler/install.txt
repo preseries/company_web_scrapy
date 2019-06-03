@@ -1,0 +1,4 @@
+pip install spacy
+python -m spacy.en.download all
+python -m spacy.es.download all
+python -m spacy.pt.download all
